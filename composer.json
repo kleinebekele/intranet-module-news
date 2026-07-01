@@ -1,8 +1,14 @@
 {
-    "name": "intranet/module-news",
-    "description": "Neuigkeiten-Modul für die Intranet-Plattform.",
+    "name": "do1emu/module-news",
+    "description": "Neuigkeiten-Modul für die modulare Intranet-Plattform (intranet-core).",
     "type": "library",
     "license": "MIT",
+    "keywords": ["laravel", "intranet", "modul", "news"],
+    "authors": [
+        {
+            "name": "kleinebekele"
+        }
+    ],
     "version": "1.0.0",
     "require": {
         "php": "^8.2"
@@ -18,7 +24,5 @@
                 "Intranet\\Modules\\News\\NewsServiceProvider"
             ]
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }

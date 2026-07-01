@@ -1,4 +1,4 @@
-# Intranet-Modul: Neuigkeiten (`intranet/module-news`)
+# Intranet-Modul: Neuigkeiten (`do1emu/module-news`)
 
 Ein Beispiel-/Referenzmodul für die [Intranet-Plattform](../intranet-core). Es zeigt
 den vollständigen Aufbau eines Moduls und dient gleichzeitig als Vorlage für eigene Module.
@@ -28,7 +28,7 @@ Siehe die ausführliche Anleitung **[MODULES.md](../intranet-core/MODULES.md)** 
 Kurzfassung (im Core-Verzeichnis):
 
 ```bash
-composer require intranet/module-news:*
+composer require do1emu/module-news:*
 php artisan modules:sync
 php artisan migrate
 ```
