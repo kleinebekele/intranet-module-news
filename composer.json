@@ -1,12 +1,12 @@
 {
     "name": "do1emu/module-news",
-    "description": "Neuigkeiten-Modul für die modulare Intranet-Plattform (intranet-core).",
+    "description": "Neuigkeiten-Modul für die modulare Intranet-Plattform: https://github.com/kleinebekele/intranet-core",
     "type": "library",
     "license": "MIT",
     "keywords": ["laravel", "intranet", "modul", "news"],
     "authors": [
         {
-            "name": "kleinebekele"
+            "name": "do1emu"
         }
     ],
     "require": {
